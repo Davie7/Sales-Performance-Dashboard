@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (2023 vs 2024)
 
 This project showcases a fully interactive Sales Performance Dashboard built in Microsoft Excel, designed to transform raw transactional data into meaningful insights and decision-ready visualizations.  
-The dashboard presents key metrics such as Sales, Quantity, Cost, Profit, YoY performance, regional distribution, and product-level trends — all dynamically controlled through slicers and automated calculations.
+The dashboard presents key metrics such as Sales, Quantity, Cost, Profit, YoY performance, regional distribution, and product-level trends ,all dynamically controlled through slicers and automated calculations.
 
 ---
 
